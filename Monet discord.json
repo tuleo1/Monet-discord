@@ -2,27 +2,30 @@
     "manifest": {
         "author": "kairo#4835",
         "name": "Monet discord",
-        "version": "1.1.0"
+        "version": "1.1.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/tuleo1\/Monet-discord\/main\/Monet%20discord.json"
     },
     "background": {},
     "fonts": {},
     "simple_colors": {
-    "accent": "system_accent1_200",
-    "active_channel": "system_accent1_500",
-    "mention_highlight": "system_accent1_900",
-    "statusbar": "system_accent1_300",
-    "background": "system_accent2_900",
-    "background_secondary": "system_accent2_900"
+        "accent": "system_accent1_200",
+        "active_channel": "system_accent1_500",
+        "mention_highlight": "system_accent1_900",
+        "statusbar": "system_accent1_300",
+        "background": "system_accent2_900",
+        "background_secondary": "system_accent2_900"
     },
     "colors": {
-    "brand_new_360": "system_accent1_100",
-    "brand_new_560": "system_accent1_100",
-    "primary_dark_100": "system_neutral2_900",
-    "primary_dark_300": "system_accent1_300",
-    "primary_dark_400": "system_accent1_100",
-    "primary_dark_660": "system_accent1_800"
+        "brand_new_360": "system_accent1_100",
+        "brand_new_560": "system_accent1_100",
+        "primary_dark_100": "system_neutral2_900",
+        "primary_dark_300": "system_accent1_300",
+        "primary_dark_400": "system_accent1_100",
+        "primary_dark_660": "system_accent1_800",
+        "uikit_btn_bg_color_selector_green": "system_accent1_100"
     },
     "drawable_tints": {
-    "drawable_voice_user_background_speaking": "system_accent_100"
+        "drawable_voice_user_background_speaking": "system_accent_100",
+        "ic_channel_text": "system_accent1_200"
     }
 }
